@@ -1,4 +1,4 @@
-#!/Users/tengzhongwei/PycharmProjects/django19/bin/python
+#!/Users/tengzhongwei/PycharmProjects/django_blog/bin/python
 
 import sys
 import getopt
